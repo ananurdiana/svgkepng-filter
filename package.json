@@ -1,0 +1,22 @@
+{
+  "name": "svgkepng-filter",
+  "version": "1.0.0",
+  "description": "Pandoc filter untuk mengaubah SVG ke PNG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pandoc",
+    "svg",
+    "png"
+  ],
+  "author": "Ana Nurdiana",
+  "license": "ISC",
+  "bin": "index.js",
+  "preferGlobal": true,
+  "dependencies": {
+    "convert-svg-to-png": "^0.6.1",
+    "pandoc-filter": "^2.0.2"
+  }
+}
