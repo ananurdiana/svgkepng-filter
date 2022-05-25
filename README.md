@@ -14,10 +14,7 @@ dan hasilnya akan terlihat dalam file output.
 
 ## Install dan Penggunaan
 
-1. Clone repo ini `git clone https://github.com/ananurdiana/svgkepng-filter.git`
-2. Masuk ke directory `svgkepng-filter`
-3. Install dependencies `npm install`
-3. Install project ke npm global `npm install -g .`
-3. Untuk mengubah file markdown kamu dari `test.md` ke `test.docx`, jalankan perintah `pandoc test.md -o test.docx -F svgkepng-filter.cmd  -F mermaid-filter.cmd`
+1. Install project ke npm global `npm install -g svgkepng-filter`
+2. Untuk mengubah file markdown kamu dari `test.md` ke `test.docx`, jalankan perintah `pandoc test.md -o test.docx -F svgkepng-filter.cmd  -F mermaid-filter.cmd`
 
 **WINDOWS** - untuk pengguna windows harus menggunakan `svgkepng-filter.cmd` pada perindah `pandoc`

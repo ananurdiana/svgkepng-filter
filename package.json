@@ -1,6 +1,6 @@
 {
   "name": "svgkepng-filter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pandoc filter untuk mengaubah SVG ke PNG",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "png"
   ],
   "author": "Ana Nurdiana",
-  "license": "ISC",
+  "license": "MIT",
   "bin": "index.js",
   "preferGlobal": true,
   "dependencies": {
