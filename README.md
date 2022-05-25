@@ -14,7 +14,7 @@ dan hasilnya akan terlihat dalam file output.
 
 ## Install dan Penggunaan
 
-1. Clone repo ini
+1. Clone repo ini `git clone https://github.com/ananurdiana/svgkepng-filter.git`
 2. Masuk ke directory `svgkepng-filter`
 3. Install dependencies `npm install`
 3. Install project ke npm global `npm install -g .`
